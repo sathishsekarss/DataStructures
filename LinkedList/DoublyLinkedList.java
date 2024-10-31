@@ -52,6 +52,7 @@ public class DoublyLinkedList {
     }
 
     public static void main(String[] args){
+        //Add node one by one to node list
         addNode(1);
         addNode(2);
         addNode(3);
