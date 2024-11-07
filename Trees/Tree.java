@@ -2,6 +2,7 @@ import java.util.*;
 
 public class Tree{
 
+    //inner class Node
     static class Node{
         Node leftNode;
         int data;
