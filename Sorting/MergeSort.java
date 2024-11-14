@@ -1,7 +1,5 @@
 import java.util.*;
-
 public class MergeSort {
-
     static int partition(int[] arr,int low, int high){
         int pivot=arr[high];
         int i=low-1;
@@ -33,5 +31,4 @@ public class MergeSort {
         int[] arr={10,7,8,9,1,5};
         int n=arr.length;
     }
-    
 }
